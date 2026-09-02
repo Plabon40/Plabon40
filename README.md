@@ -1,1 +1,80 @@
-<!-- ======================= BANNER ======================= --> <p align="center"> <img src="./github-banner.png" alt="Plabon40 GitHub Banner" width="100%" /> </p> <!-- ======================= INTRO ======================= --> <h1 align="center">Hi 👋, I'm Plabon Barua</h1> <h3 align="center"> Web Developer | JavaScript & TypeScript Enthusiast </h3> <p align="center"> <a href="https://github.com/Plabon40"> <img src="https://img.shields.io/github/followers/Plabon40?label=Followers&style=for-the-badge" /> </a> <a href="https://github.com/Plabon40"> <img src="https://komarev.com/ghpvc/?username=Plabon40&style=for-the-badge&label=Profile+Views" /> </a> </p> --- ## 👨‍💻 About Me I'm a passionate **Web Developer** who enjoys building modern, responsive, and user-friendly web applications. I'm currently focused on strengthening my JavaScript and TypeScript skills while exploring modern frontend technologies and building real-world projects. - 🎓 Studying **BBA in Finance** - 💻 Interested in **Web Development & Software Engineering** - 🌱 Currently learning **TypeScript & Next.js** - ⚛️ Exploring **React and modern frontend development** - 🚀 Building projects to improve my practical development skills - 📚 Always learning something new --- ## 🔭 What I'm Currently Working On - 🌐 Building responsive websites with **HTML, CSS & JavaScript** - 🧩 Improving my **JavaScript problem-solving skills** - 🟦 Learning and practicing **TypeScript** - ⚛️ Exploring **React & Next.js** - 🛠️ Building personal projects and improving my GitHub portfolio --- ## 🛠️ Tech Stack ### 💻 Languages <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> </p> ### ⚛️ Frontend <p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs" /> </p> ### 🔧 Tools & Technologies <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" /> </p> --- ## 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Plabon40&show_icons=true&hide_border=true&count_private=true" alt="Plabon's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plabon40&layout=compact&hide_border=true" alt="Top Languages" /> </p> --- ## 🔥 GitHub Streak <p align="center"> <img src="https://streak-stats.demolab.com/?user=Plabon40&hide_border=true" alt="GitHub Streak" /> </p> --- ## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Plabon40&hide_border=true" alt="Plabon's Contribution Graph" /> </p> --- ## 🌐 Connect With Me <p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio" /> </a> </p> --- ## 💡 A Little More About Me ```javascript const plabon = { name: "Plabon", username: "Plabon40", role: "Web Developer", learning: ["TypeScript", "React", "Next.js"], interests: [ "Web Development", "Software Engineering", "Technology" ], goal: "Build useful things and become a better developer", mindset: "Learn • Build • Improve" };
+```md
+<!-- Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+
+<h3 align="center">
+  Web Developer | JavaScript & TypeScript Enthusiast
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate web developer who enjoys building modern and user-friendly web applications. I'm currently improving my JavaScript and TypeScript skills and exploring modern web technologies.
+
+- 🌱 I’m currently learning **TypeScript and Next.js**
+- 💻 I’m working on **web development projects**
+- 🚀 I’m exploring **modern frontend technologies**
+- 📚 I enjoy learning new technologies and improving my coding skills
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME"
+    alt="GitHub Streak"
+  />
+</p>
+```
