@@ -4,7 +4,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Plabon Barua</h1>
+<h1 align="center">Hi 👋, I'm Plabon Barua</h1>
 
 <h3 align="center">
   Web Developer | JavaScript & TypeScript Enthusiast
