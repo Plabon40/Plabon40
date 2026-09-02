@@ -35,11 +35,11 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/plabon-barua-188616229/)">
+<a href="(https://www.linkedin.com/in/plabon-barua-188616229/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="[YOUR_FACEBOOK_URL](https://www.facebook.com/brinta.barua.1)">
+<a href="(https://www.facebook.com/brinta.barua.1)">
   <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" />
 </a>
 
@@ -55,14 +55,14 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=Plabon40&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plabon40&layout=compact"
     alt="Top Languages"
   />
 </p>
@@ -73,7 +73,7 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME"
+    src="https://streak-stats.demolab.com/?user=Plabon40"
     alt="GitHub Streak"
   />
 </p>
