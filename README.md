@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
@@ -77,4 +77,4 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
     alt="GitHub Streak"
   />
 </p>
-```
+
