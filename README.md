@@ -1,7 +1,7 @@
 ```md
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Your Plabon Barua</h1>
