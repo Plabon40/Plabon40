@@ -4,7 +4,7 @@
   <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Your Plabon Barua</h1>
 
 <h3 align="center">
   Web Developer | JavaScript & TypeScript Enthusiast
@@ -35,11 +35,11 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/plabon-barua-188616229/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_FACEBOOK_URL">
+<a href="[YOUR_FACEBOOK_URL](https://www.facebook.com/brinta.barua.1)">
   <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" />
 </a>
 
