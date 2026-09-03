@@ -42,8 +42,9 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
   
 <a href="https://www.facebook.com/brinta.barua.1" target="_blank">
   <img
-    src="https://skillicons.dev/icons?i=facebook"
+    src="https://cdn.simpleicons.org/facebook/1877F2"
     width="40"
+    height="40"
     alt="Facebook"
   />
 </a>
