@@ -40,7 +40,13 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
   <p align="left">
     <a href="https://www.linkedin.com/in/plabon-barua-188616229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
   
-  <a href="https://www.facebook.com/brinta.barua.1"> <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" /></a>
+<a href="https://www.facebook.com/brinta.barua.1" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=facebook"
+    width="40"
+    alt="Facebook"
+  />
+</a>
 
   </p>
 </div>
