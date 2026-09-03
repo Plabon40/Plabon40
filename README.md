@@ -44,7 +44,7 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
   <img
     src="https://cdn.simpleicons.org/facebook/1877F2"
     width="40"
-    height="40"
+    height="30"
     alt="Facebook"
   />
 </a>
