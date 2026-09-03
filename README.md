@@ -33,21 +33,21 @@ I'm a passionate web developer who enjoys building modern and user-friendly web 
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<!--- socials --->
 
-<a href="(https://www.linkedin.com/in/plabon-barua-188616229/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
 
-<a href="(https://www.facebook.com/brinta.barua.1)">
-  <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" />
-</a>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/plabon-barua-188616229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+  
+  <a href="https://www.facebook.com/brinta.barua.1"> <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" /></a>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
-</a>
+  </p>
+</div>
 
-</p>
+<br/>
+
+
 
 ---
 
